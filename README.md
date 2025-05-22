@@ -3,10 +3,6 @@ Here’s a sample `README.md` file for your GitHub repository based on **Task 6:
 
 ---
 
-# 📊 Sales Trend Analysis Using Aggregations
-
-This repository contains the solution for **Task 6** of the **Data Analyst Internship** — analyzing sales trends using SQL.
-
 # Task Overview
 
 **Objective:**
